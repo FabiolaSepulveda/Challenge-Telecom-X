@@ -73,4 +73,4 @@ Esta estrategia permitirá reducir la evasión del 26.5% actual al 18-20% objeti
 ## Autor
 
 Proyecto realizado por **Fabiola Sepúlveda**  
-Como parte del Challenge de Ciencia de Datos — Telecom X
+Como parte del Challenge de Ciencia de Datos — Telecom X (Parte 1)
